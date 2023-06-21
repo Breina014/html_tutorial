@@ -1,0 +1,63 @@
+/* This is to reference html tags*/
+h1{
+	background-color: yellow; 
+	color: green;
+	font-size: 400;
+	font-family: courier;
+	text-align: center;
+
+}
+body{
+	background-color: red;
+}
+h2{
+	background-color: green;
+	color: yellow;
+	font-size: 300;
+	font-family: sans-serif;
+}
+p{
+	font-weight: 400;
+}
+
+/* This is to reference div class*/
+.div-1{
+	padding: 100px;
+	border-color: black;
+	border-style: solid;
+	border: 20px outset green;
+
+}
+.div-2{
+	padding: 40px;
+	background-color: #72E7E7;
+
+}
+/*This is to reference Div ID*/
+#div-1-1{
+	background-color: yellow;
+	float: right;
+}
+
+.div-3{
+	background-color: purple;
+	border: 40px outset maroon;
+	padding: 100px;
+
+}
+#div-3-3{
+	background-color: yellow;
+	position: block;
+	/*float: right;	*/
+}
+form{
+	text-align: center;
+}
+table,th,td{
+	border:1px outset black;
+	background-color: white;
+	border-collapse: collapse;
+	
+
+	
+}
